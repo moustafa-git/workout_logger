@@ -8,6 +8,7 @@
   </div>
 
   <h3 align="center">Workout Map Logger</h3>
+  <h2>Implemented using the OOP Paradigm in JavaScript</h2>
 </div>
 
 ## Live Site: https://merry-sundae-8a5cfa.netlify.app/
