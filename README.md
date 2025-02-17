@@ -14,9 +14,9 @@
 ## Live Site: https://merry-sundae-8a5cfa.netlify.app/
 
 ![Demo GIF](./GIFS/GIF.gif)
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Libraries</a>
 
--Geolocation API
+- Geolocation API
 
 ## <a name="features">🔋 Features</a>
 
