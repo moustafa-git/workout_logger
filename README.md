@@ -16,14 +16,7 @@
 ![Demo GIF](./GIFS/GIF.gif)
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Valtio
+-Geolocation API
 
 ## <a name="features">🔋 Features</a>
 
