@@ -17,6 +17,7 @@
 ## <a name="tech-stack">⚙️ Libraries</a>
 
 - Geolocation API
+- Leaflet API
 
 ## <a name="features">🔋 Features</a>
 
