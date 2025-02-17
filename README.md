@@ -1,6 +1,10 @@
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+
+
   </div>
 
   <h3 align="center">Workout Map Logger</h3>
