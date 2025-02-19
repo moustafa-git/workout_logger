@@ -18,6 +18,7 @@
 
 - Geolocation API
 - Leaflet API
+- LocalStorage API
 
 ## <a name="features">🔋 Features</a>
 
