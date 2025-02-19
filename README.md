@@ -11,7 +11,7 @@
   <h2>Implemented using the OOP Paradigm in JavaScript</h2>
 </div>
 
-## Live Site: https://merry-sundae-8a5cfa.netlify.app/
+## Live Site: https://glistening-horse-5dcb7c.netlify.app/
 
 ![Demo GIF](./GIFS/GIF.gif)
 ## <a name="tech-stack">⚙️ Libraries</a>
